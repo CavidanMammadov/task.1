@@ -1,0 +1,14 @@
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\bin\Debug\net8.0\weaponn.cs.exe
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\bin\Debug\net8.0\weaponn.cs.deps.json
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\bin\Debug\net8.0\weaponn.cs.runtimeconfig.json
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\bin\Debug\net8.0\weaponn.cs.dll
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\bin\Debug\net8.0\weaponn.cs.pdb
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\obj\Debug\net8.0\weaponn.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\obj\Debug\net8.0\weaponn.cs.AssemblyInfoInputs.cache
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\obj\Debug\net8.0\weaponn.cs.AssemblyInfo.cs
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\obj\Debug\net8.0\weaponn.cs.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\obj\Debug\net8.0\weaponn.cs.dll
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\obj\Debug\net8.0\refint\weaponn.cs.dll
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\obj\Debug\net8.0\weaponn.cs.pdb
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\obj\Debug\net8.0\weaponn.cs.genruntimeconfig.cache
+C:\Users\ll novbe\source\repos\weaponn.cs\weaponn.cs\obj\Debug\net8.0\ref\weaponn.cs.dll
